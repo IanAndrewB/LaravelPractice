@@ -15,6 +15,7 @@
 <body>
     <div class="container">
         <h1>Hello World</h1>
+        <button class="btn btn-primary">Hello World</button>
     </div>
 </body>
 </html>
